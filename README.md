@@ -14,7 +14,6 @@ The DOI of this dataset is [10.5281/zenodo.8134122](https://zenodo.org/record/81
 
 # Contact
 
-Contact: laura.casanovas03@alumni.upf.edu
+Contact the main author, Laura Casanova, at laura.casanovas03@alumni.upf.edu
 
-# Zenodo repository
 
