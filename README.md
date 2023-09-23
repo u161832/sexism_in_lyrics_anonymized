@@ -53,7 +53,7 @@ Table II: Categories of sexism found in our music lyrics (own elaboration), from
 
 ## Further explorations
 
-Out of curiosity we did some explorations and found that the majority of songs that have between two and all of their paragraphs labeled as sexist belong to the 2010s to 2020s period (refer to Table III). In addition, our analysis reveals that 92% of the featured artists in these songs are men. Among the most prevalent genres in the songs from the last decades, Urban Latin stands out, although Pop is the only genre that appears across all decades. Conversely, we did a brief examination of 41 randomly selected non-sexist songs (see Table IV for details), and we found that although Pop music remains dominant, other music genres represented are more diverse than in the sample of sexist songs. Anecdotally, we observe in the sample of sexist songs from Table III a larger prevalence of male artists than in the sample of non-sexist songs of Table IV. 
+Inquisitively, we conducted and exploratory analysis and observed that the majority of songs that have between two and all of their paragraphs labeled as sexist belong to the 2010s to 2020s period (refer to Table III). In addition, our analysis reveals that 92% of the featured artists in these songs are men. Among the most prevalent genres in the songs from the last decades, Urban Latin stands out, although Pop is the only genre that appears across all decades. Conversely, we did a brief examination of 41 randomly selected non-sexist songs (see Table IV for details), and we found that although Pop music remains dominant, other music genres represented are more diverse than in the sample of sexist songs. Anecdotally, we observe in the sample of sexist songs from Table III a larger prevalence of male artists than in the sample of non-sexist songs of Table IV. 
 
 
 Table III: Titles with random sample of songs with 100% of paragraphs marked as sexist (shaded rows are songs by female artists)
@@ -146,13 +146,23 @@ Table IV: Titles with 41 random non-sexist songs (shaded rows are songs by femal
 
 ## References
 Devlin, Jacob, y Ming-Wei Chang. «Open sourcing BERT: State-of-the-art pre-training for natural language processing.» _Google AI Blog 2_ (2018).
+
 Rudolph, Maja, and David, Blei. «Dynamic embeddings for language evolution.» _In Proceedings of the 2018 World Wide Web Conference_ (pp. 1003–1011).2018.
+
 Artetxe, Mikel, y Holger Schwenk. «Massively multilingual sentence embeddings for zero-shot cross-lingual transfer and beyond.» _Transactions of the Association for Computational Linguistics_ (MIT Press) 7 (2019): 597–610.
+
 Cortes, Corinna, y Vladimir Vapnik. «Support-vector networks.» _Machine learning_ (Springer) 20 (1995): 273–297.
+
 Butt, Sabur, Noman Ashraf, Grigori Sidorov, y Alexander Gelbukh. «Sexism identification using BERT and data augmentation-EXIST2021.» _International Conference of the Spanish Society for Natural Language Processing SEPLN 2021, IberLEF 2021._ 2021.
+
 Grosz, Dylan, y Patricia Conde-Cespedes. «Automatic detection of sexist statements commonly used at the workplace.» _Pacific-Asia Conference on Knowledge Discovery and Data Mining._ 2020. 104–115.
+
 Sharifirad, Sima, y Stan Matwin. «When a tweet is actually sexist. A more comprehensive classification of different online harassment categories and the challenges in NLP.» _arXiv preprint arXiv:1902.10584_, 2019.
+
 Slim, Kammoun. «Feminism vs. Sexism in Lyrics: A Portrait of Women in Recent Music.» _Feminism vs. Sexism in Lyrics: A Portrait of Women in Recent Music._ GitHub, 2019.
+
 Guest, Ella. «online-misogyny-eacl2021.» _online-misogyny-eacl2021._ GitHub, 2021.
+
 EXIST. «EXIST: sEXism Identification in Social neTworks.» _EXIST: sEXism Identification in Social neTworks._ 2021.
+
 Rodriguez, Francisco. «MeTwo: Machismo and Sexism Twitter Identification dataset.» _MeTwo: Machismo and Sexism Twitter Identification dataset._ GitHub, 2020.
